@@ -1,0 +1,85 @@
+Set 1:
+
+- No Center Cherry on Cake
+- Unique Pumpkin and Melon Stems
+- Unbundled Dried Kelp
+- Solid Honey
+- Desaturated Purpur
+- Desaturated Dark Oak
+- Vertical Nuggets
+- Softer Wool
+- Brown Leather
+- Unique Dye Textures
+- Flint Tipped Arrows
+- Splash Bottles o' Enchanting
+- Recipe Accurate Spyglass
+- Bricks over Polished Stones
+
+- Darker Dark Oak Leaves
+- Circular Log Tops
+- Smoother Stones
+- Whiter Snow
+
+- Quieter Bees
+- Quieter Chickens
+- Quieter Cows
+- Quieter Llamas
+- Quieter Parrots
+- Quieter Pigs
+- Quieter Rabbits
+- Quieter Sheep
+- Quieter Wolves
+- Quieter Rain
+- Quieter Minecarts
+- Quieter Fire
+- Quieter Nether Portals
+- Quieter Pistons
+
+- Visually Noticeable Waxed Copper
+- Different Banner Pattern Item Textures
+- Sticky Piston Sides
+- Brewing Guide In-Game
+
+- Unobtrusive Scaffolding
+- Lower Fire
+- Lower Shield
+- Translucent Pumpkin Overlay
+- No Spyglass Overlay
+
+- Angled Crosshair
+- Noticeable Wither Hearts
+
+- Translucent Tooltips
+- Dark UI
+- Trading Helper
+
+- Oarless Boats
+- Old Explosion Sound
+- Old Level Up Sound
+- Legacy Console Emerald Texture
+
+- Restored Green Axolotl
+- Magenta Slimes
+
+- Java Explosion Particles
+- Java Dried Kelp Texture
+- Java Map Texture
+
+- Inner Piston Fix
+- Smoker Bottom Fix
+- Updated Observer Texture
+- Redstone Wire Fix
+- Consistent Buckets
+- Consistent Tadpole Bucket Water Color
+- Consistent Helmets
+- Cactus Bottom Fix
+- Cocoa Beans Fix
+
+Set 2:
+
+- Noticeable Ancient Debris Texture
+- Unique Potion Textures
+- Red Nether Portal
+- Lower Grass
+- WAFFLES! SHUT UP NOW!
+- Saturated Birch Leaves
