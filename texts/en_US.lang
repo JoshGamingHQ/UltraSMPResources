@@ -1,17 +1,24 @@
+## Potion Helper Text Strings
+
 bt.bg.splash.potion=Splash Potion
 bt.bg.lingering.potion=Lingering Potion
 bt.bg.extended.potion=Extended Potion
 bt.bg.level_2.potion=Level II Potion
 bt.bg.effect.potion=Potion Effect
 
+## Custom Items
+
 item.cookie.name=Waffle
 item.cooked_beef.name=Steak
 item.honey_bottle.name=Mead
 
-tile.enchanting_table.name=Enchanting Table
+## Custom Blocks
 
+tile.enchanting_table.name=Enchanting Table
 tile.red_flower.poppy.name=Rose
 tile.red_flower.blueOrchid.name=Blue Rose
+
+## Custom Blocks (Stone Variants)
 
 tile.stone.andesiteSmooth.name=Andesite Bricks
 tile.stone.dioriteSmooth.name=Diorite Bricks
@@ -23,7 +30,11 @@ tile.polished_granite_stairs.name=Granite Brick Stairs
 tile.polished_diorite_stairs.name=Diorite Brick Stairs
 tile.polished_andesite_stairs.name=Andesite Brick Stairs
 
+## Custom Mobs
+
 entity.creeper.name=Travis
+
+## Custom Death
 
 deathScreen.title=Skill issue
 deathScreen.message=Skill issue
