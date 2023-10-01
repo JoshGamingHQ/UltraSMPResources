@@ -9,11 +9,9 @@ item.cooked_beef.name=Steak
 item.honey_bottle.name=Mead
 
 tile.enchanting_table.name=Enchanting Table
+
 tile.red_flower.poppy.name=Rose
 tile.red_flower.blueOrchid.name=Blue Rose
-
-deathScreen.title=Skill issue
-deathScreen.message=Skill issue
 
 tile.stone.andesiteSmooth.name=Andesite Bricks
 tile.stone.dioriteSmooth.name=Diorite Bricks
@@ -26,3 +24,6 @@ tile.polished_diorite_stairs.name=Diorite Brick Stairs
 tile.polished_andesite_stairs.name=Andesite Brick Stairs
 
 entity.creeper.name=Travis
+
+deathScreen.title=Skill issue
+deathScreen.message=Skill issue
