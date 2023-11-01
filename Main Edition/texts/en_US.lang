@@ -11,6 +11,10 @@ bt.bg.effect.potion=Potion Effect
 item.cookie.name=Waffle
 item.cooked_beef.name=Steak
 item.honey_bottle.name=Mead
+item.spyglass.name=Poor Man's Optifine
+item.turtle_helmet.name=Turtle Shell Helmet
+item.turtle_shell_piece.name=Turtle Scute
+trim_pattern.wild.name=Danger Armor Trim
 
 ## Custom Blocks
 

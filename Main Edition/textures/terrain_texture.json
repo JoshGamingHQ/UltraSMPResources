@@ -1,86 +1,111 @@
 {
-   "padding":8,
-   "resource_pack_name":"vanilla",
-   "texture_data":{
-      "waxed_exposed_copper":{
-         "textures":"textures/blocks/waxed/waxed_exposed_copper"
-      },
-      "waxed_exposed_copper_stairs1":{
-         "textures":"textures/blocks/waxed/waxed_exposed_copper_stairs1"
-      },
-      "waxed_exposed_copper_stairs2":{
-         "textures":"textures/blocks/waxed/waxed_exposed_copper_stairs2"
-      },
-      "waxed_exposed_copper_double1":{
-         "textures":"textures/blocks/waxed/waxed_exposed_copper_double1"
-      },
-      "waxed_exposed_copper_double2":{
-         "textures":"textures/blocks/waxed/waxed_exposed_copper_double2"
-      },
-      "piston_side_sticky":{
-         "textures":"textures/blocks/piston_side_sticky"
-      },
-      "waxed_weathered_copper_stairs2":{
-         "textures":"textures/blocks/waxed/waxed_weathered_copper_stairs2"
-      },
-      "waxed_weathered_cut_copper":{
-         "textures":"textures/blocks/waxed/waxed_weathered_cut_copper"
-      },
-      "waxed_oxidized_copper_stairs1":{
-         "textures":"textures/blocks/waxed/waxed_oxidized_copper_stairs1"
-      },
-      "waxed_oxidized_cut_copper":{
-         "textures":"textures/blocks/waxed/waxed_oxidized_cut_copper"
-      },
-      "waxed_oxidized_copper_stairs2":{
-         "textures":"textures/blocks/waxed/waxed_oxidized_copper_stairs2"
-      },
-      "waxed_copper_double2":{
-         "textures":"textures/blocks/waxed/waxed_copper_double2"
-      },
-      "waxed_copper_double1":{
-         "textures":"textures/blocks/waxed/waxed_copper_double1"
-      },
-      "waxed_oxidized_copper_double2":{
-         "textures":"textures/blocks/waxed/waxed_oxidized_copper_double2"
-      },
-      "waxed_oxidized_copper_double1":{
-         "textures":"textures/blocks/waxed/waxed_oxidized_copper_double1"
-      },
-      "waxed_copper_stairs2":{
-         "textures":"textures/blocks/waxed/waxed_copper_stairs2"
-      },
-      "piston_top_sticky":{
-         "textures":"textures/blocks/piston_top_sticky"
-      },
-      "waxed_weathered_copper_stairs1":{
-         "textures":"textures/blocks/waxed/waxed_weathered_copper_stairs1"
-      },
-      "waxed_cut_copper":{
-         "textures":"textures/blocks/waxed/waxed_cut_copper"
-      },
-      "waxed_copper_stairs1":{
-         "textures":"textures/blocks/waxed/waxed_copper_stairs1"
-      },
-      "waxed_oxidized_copper":{
-         "textures":"textures/blocks/waxed/waxed_oxidized_copper"
-      },
-      "waxed_weathered_copper":{
-         "textures":"textures/blocks/waxed/waxed_weathered_copper"
-      },
-      "waxed_copper_block":{
-         "textures":"textures/blocks/waxed/waxed_copper_block"
-      },
-      "waxed_exposed_cut_copper":{
-         "textures":"textures/blocks/waxed/waxed_exposed_cut_copper"
-      },
-      "waxed_weathered_copper_double2":{
-         "textures":"textures/blocks/waxed/waxed_weathered_copper_double2"
-      },
-      "waxed_weathered_copper_double1":{
-         "textures":"textures/blocks/waxed/waxed_weathered_copper_double1"
-      }
-   },
-   "texture_name":"atlas.terrain",
-   "num_mip_levels":4
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "waxed_exposed_copper": {
+      "textures": "textures/blocks/waxed/waxed_exposed_copper"
+    },
+    "waxed_exposed_copper_stairs1": {
+      "textures": "textures/blocks/waxed/waxed_exposed_copper_stairs1"
+    },
+    "waxed_exposed_copper_stairs2": {
+      "textures": "textures/blocks/waxed/waxed_exposed_copper_stairs2"
+    },
+    "waxed_exposed_copper_double1": {
+      "textures": "textures/blocks/waxed/waxed_exposed_copper_double1"
+    },
+    "waxed_exposed_copper_double2": {
+      "textures": "textures/blocks/waxed/waxed_exposed_copper_double2"
+    },
+    "piston_side_sticky": {
+      "textures": "textures/blocks/piston_side_sticky"
+    },
+    "waxed_weathered_copper_stairs2": {
+      "textures": "textures/blocks/waxed/waxed_weathered_copper_stairs2"
+    },
+    "waxed_weathered_cut_copper": {
+      "textures": "textures/blocks/waxed/waxed_weathered_cut_copper"
+    },
+    "waxed_oxidized_copper_stairs1": {
+      "textures": "textures/blocks/waxed/waxed_oxidized_copper_stairs1"
+    },
+    "waxed_oxidized_cut_copper": {
+      "textures": "textures/blocks/waxed/waxed_oxidized_cut_copper"
+    },
+    "waxed_oxidized_copper_stairs2": {
+      "textures": "textures/blocks/waxed/waxed_oxidized_copper_stairs2"
+    },
+    "waxed_copper_double2": {
+      "textures": "textures/blocks/waxed/waxed_copper_double2"
+    },
+    "waxed_copper_double1": {
+      "textures": "textures/blocks/waxed/waxed_copper_double1"
+    },
+    "waxed_oxidized_copper_double2": {
+      "textures": "textures/blocks/waxed/waxed_oxidized_copper_double2"
+    },
+    "waxed_oxidized_copper_double1": {
+      "textures": "textures/blocks/waxed/waxed_oxidized_copper_double1"
+    },
+    "waxed_copper_stairs2": {
+      "textures": "textures/blocks/waxed/waxed_copper_stairs2"
+    },
+    "piston_top_sticky": {
+      "textures": "textures/blocks/piston_top_sticky"
+    },
+    "waxed_weathered_copper_stairs1": {
+      "textures": "textures/blocks/waxed/waxed_weathered_copper_stairs1"
+    },
+    "waxed_cut_copper": {
+      "textures": "textures/blocks/waxed/waxed_cut_copper"
+    },
+    "waxed_copper_stairs1": {
+      "textures": "textures/blocks/waxed/waxed_copper_stairs1"
+    },
+    "waxed_oxidized_copper": {
+      "textures": "textures/blocks/waxed/waxed_oxidized_copper"
+    },
+    "waxed_weathered_copper": {
+      "textures": "textures/blocks/waxed/waxed_weathered_copper"
+    },
+    "waxed_copper_block": {
+      "textures": "textures/blocks/waxed/waxed_copper_block"
+    },
+    "waxed_exposed_cut_copper": {
+      "textures": "textures/blocks/waxed/waxed_exposed_cut_copper"
+    },
+    "waxed_weathered_copper_double2": {
+      "textures": "textures/blocks/waxed/waxed_weathered_copper_double2"
+    },
+    "waxed_weathered_copper_double1": {
+      "textures": "textures/blocks/waxed/waxed_weathered_copper_double1"
+    },
+    "beacon_shell": {
+      "textures": "textures/blocks/beacon/beacon_shell"
+    },
+    "infested_deepslate_top": {
+      "textures": "textures/blocks/infested/deepslate_top"
+    },
+    "redstone_ore_off": {
+      "textures": "textures/blocks/redstone_ore_off"
+    },
+    "infested_blocks": {
+      "textures": [
+        "textures/blocks/infested/cobblestone",
+        "textures/blocks/infested/stone_bricks",
+        "textures/blocks/infested/mossy_stone_bricks",
+        "textures/blocks/infested/cracked_stone_bricks",
+        "textures/blocks/infested/chiseled_stone_bricks",
+        "textures/blocks/infested/stone"
+      ]
+    },
+    "deepslate_redstone_ore_off": {
+      "textures": "textures/blocks/deepslate/deepslate_redstone_ore_off"
+    },
+    "infested_deepslate": {
+      "textures": "textures/blocks/infested/deepslate"
+    }
+  },
+  "texture_name": "atlas.terrain",
+  "num_mip_levels": 4
 }
